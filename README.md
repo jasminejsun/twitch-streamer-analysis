@@ -16,6 +16,10 @@ Can we predict the popularity of a Twitch streamer (measured by watch time) base
 
 
 ## References
+- https://www.keboola.com/blog/random-forest-regression
+- https://medium.com/@jimmy9728/random-forest-regression-how-it-can-be-applied-in-python-dd8d18ee845b
+- https://www.geeksforgeeks.org/random-forest-regression-in-python/
+
 
 
 ## Contributors
