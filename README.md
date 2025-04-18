@@ -8,7 +8,7 @@ Can we predict the popularity of a Twitch streamer (measured by watch time) base
 
 
 ## Models Used
-
+1. Linear Regression
 
 ## Conclusion
 
