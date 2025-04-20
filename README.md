@@ -6,11 +6,21 @@ This mini-project is an analysis on the top 1000 twitch streamers from this [Kag
 ## Problem Definition
 Can we predict the popularity of a Twitch streamer (measured by watch time) based on their streaming habits, and engagement metrics?
 
+## Data Preparation and Cleaning
+- Found a dataset from Kaggle including the top 1000 twitch streamers
+- Performed data cleaning such as checking for null values, duplicates, etc.
+
+## Exploratory Data Analysis
+- Initial numerical analysis of data
+- Used correlation matrices and pair plots to find strong relations between pairs of variables
+
 ## Models Used
-1. Linear Regression
-2. Random Forest Regression
+1. Linear Regression (applying multiple variables to predict a streamer's watch time in minutes)
+2. Random Forest Regression (applying multiple variables to then perform many decision trees to predict a streamer's watch time in minutes)
 
 ## What we learned
+- Applying multiple variables to a linear regression
+- Standardizing features (StandardScaler from sklearn)
 - Random Forest Regression from sklearn
 - Collaborating using GitHub
 - How to handle heavily skewed datasets
@@ -28,5 +38,5 @@ Can we predict the popularity of a Twitch streamer (measured by watch time) base
 - https://www.geeksforgeeks.org/random-forest-regression-in-python/
 
 ## Contributors
-- @jasminejsun
-- @peterli135
+- @jasminejsun (Jasmine Sun - N2402658K)
+- @peterli135 (Peter Li - N2402585L)
